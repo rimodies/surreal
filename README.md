@@ -1,2 +1,2 @@
 # SURREAL
-Extensive web interface for a variety of web syntax operations.
+An extensive web tool for a variety of manipulations.
